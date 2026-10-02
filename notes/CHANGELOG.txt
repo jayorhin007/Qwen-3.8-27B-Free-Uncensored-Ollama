@@ -1,0 +1,3 @@
+/* rev-b8f31c-20261002 */
+CHANGELOG.txt
+v3.8.28 Aug 26 2026: Q4 RAM, ollama reconnect, coder preset

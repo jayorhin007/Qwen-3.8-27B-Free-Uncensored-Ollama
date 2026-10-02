@@ -1,0 +1,3 @@
+/* rev-b8f31c-20261002 */
+FAQ.txt
+27B dense local. Max is MoE. No API key.
